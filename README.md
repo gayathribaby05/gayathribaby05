@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=gayathribaby05&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **gayathribaby05/gayathribaby05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
